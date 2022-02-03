@@ -1,2 +1,4 @@
 error.txt
 /logs
+/.idea
+.DS_Store
